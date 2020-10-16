@@ -1,2 +1,3 @@
 src/ios/sbs-ios_5.12.1/ScanditBarcodeScanner.framework/ScanditBarcodeScanner filter=lfs diff=lfs merge=lfs -text
 **/ScanditBarcodeScanner.framework/* filter=lfs diff=lfs merge=lfs -text
+*.md filter=lfs diff=lfs merge=lfs -text
